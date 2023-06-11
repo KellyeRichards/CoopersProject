@@ -1,0 +1,200 @@
+
+body{
+color: lightpink;
+font-size: 50px;
+}
+
+div.background {
+    background: url(sun.jpg) repeat;
+    border: 2px solid black;
+}
+  
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: .70;
+}
+  
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: lightpink;
+    opacity: 1.0;
+}
+
+
+
+
+div.background2 {
+    background: url(Screenshot\ 2023-06-08\ at\ 11.36.44\ AM.png) repeat;
+    border: 2px solid black;
+}
+  
+div.transbox2 {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: .70;
+}
+  
+div.transbox2 p {
+    margin: 5%;
+    font-weight: bold;
+    color: lightpink;
+    opacity: 1.0;
+}
+
+
+
+
+div.background3 {
+    background: url(Screenshot\ 2023-06-08\ at\ 11.42.37\ AM.png) repeat;
+    border: 2px solid black;
+}
+  
+div.transbox3 {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: .70;
+}
+  
+div.transbox3 p {
+    margin: 5%;
+    font-weight: bold;
+    color: lightpink;
+    opacity: 1.0;
+}
+
+div.background4 {
+    background: url(pexels-photo-3777931.webp) repeat;
+    border: 2px solid black;
+}
+  
+div.transbox4 {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: .70;
+}
+  
+div.transbox4 p {
+    margin: 5%;
+    font-weight: bold;
+    color: lightpink;
+    opacity: 1.0;
+}
+
+div.background5 {
+    background: url(download.jpg) repeat;
+    border: 2px solid black;
+}
+  
+div.transbox5 {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: .70;
+}
+  
+div.transbox5 p {
+    margin: 5%;
+    font-weight: bold;
+    color: lightpink;
+    opacity: 1.0;
+}
+div.background6 {
+    background: url(images.jpg) repeat;
+    border: 2px solid black;
+}
+  
+div.transbox6 {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: .70;
+}
+  
+div.transbox6 p {
+    margin: 5%;
+    font-weight: bold;
+    color: lightpink;
+    opacity: 1.0;
+}
+
+div.background65 {
+    background: url(download-1.jpg) repeat;
+    border: 2px solid black;
+}
+  
+div.transbox65 {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: .70;
+}
+  
+div.transbox65 p {
+    margin: 5%;
+    font-weight: bold;
+    color: lightpink;
+    opacity: 1.0;
+}
+
+
+div.background75 {
+    background-color: blue;
+    border: 2px solid black;
+}
+  
+div.transbox75 {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: .70;
+}
+  
+div.transbox75 p {
+    margin: 5%;
+    font-weight: bold;
+    color: lightpink;
+    opacity: 1.0;}
+
+div.background8 {
+    background: url(download-2.jpg) repeat;
+    border: 2px solid black;
+}
+  
+div.transbox8 {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: .70;
+}
+  
+div.transbox8 p {
+    margin: 5%;
+    font-weight: bold;
+    color: lightpink;
+    opacity: 1.0;
+}
+div.background9 {
+    background: url(download-3.jpg) repeat;
+    border: 2px solid black;
+}
+  
+div.transbox9 {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: .70;
+}
+  
+div.transbox9 p {
+    margin: 5%;
+    font-weight: bold;
+    color: lightpink;
+    opacity: 1.0;
+}
+/* Cant stop at 199. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto veniam sunt reiciendis sequi. Voluptate quibusdam aut pariatur saepe est non eos aspernatur veritatis hic nostrum, impedit rem. Esse, ut dolore. */ 

@@ -1,0 +1,31 @@
+
+
+
+  body{
+    background-color: #ff93ed; 
+    font-size: 100px;
+    color: #ff93ed;
+    }
+    
+    
+    div {
+        width: 10px;
+        height: 10px;
+        background-image: url(CONGRTS.png);
+        transition: width 3s, height 3s;
+      }
+      
+      div:hover {
+    
+        width: auto;
+        height: 1100px ; 
+        /* height: auto;  */
+        /* width: 961px;
+        height: 1245px; */
+      }
+     
+button{
+
+position: bottom;
+
+}
